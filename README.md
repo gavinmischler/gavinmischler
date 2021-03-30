@@ -4,7 +4,7 @@ I am an MS/PhD student in Electrical Engineering at Columbia University, under t
 
 I helped develop [mvlearn](https://mvlearn.github.io/) as an open-source tool to aid in the study of neural data. I believe open code enhances research efforts by facilitating reproducibility and further scientific advances that build off prior work. You can find my software projects here on Github, and more of my research on my [personal site](https://gavinmischler.github.io).
 
-![Gavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavinmischler&count_private=true&theme=merko)
+<!--![Gavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavinmischler&count_private=true&theme=merko)-->
 
 
 <!--
@@ -17,12 +17,14 @@ spikeFRInder
 -->
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gavinmischler&repo=spikeFRInder)](https://github.com/gavinmischler/spikeFRInder)-->
 
+### Some repos to check out
+
 <!--
 mvlearn
 -->
 <a href="https://github.com/mvlearn/mvlearn">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mvlearn&repo=mvlearn&theme=merko" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mvlearn&repo=mvlearn&theme=merko" />
 </a>  
 
 <!--
@@ -30,7 +32,7 @@ spikeFRInder
 -->
 <a href="https://github.com/gavinmischler/spikeFRInder">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gavinmischler&repo=spikeFRInder&theme=merko" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gavinmischler&repo=spikeFRInder&theme=merko" />
 </a>
 
 
