@@ -10,15 +10,28 @@ I helped develop [mvlearn](https://mvlearn.github.io/) as an open-source tool to
 <!--
 mvlearn
 -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mvlearn&repo=mvlearn)](https://github.com/mvlearn/mvlearn)
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mvlearn&repo=mvlearn)](https://github.com/mvlearn/mvlearn)-->
 
 <!--
 spikeFRInder
 -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gavinmischler&repo=spikeFRInder)](https://github.com/gavinmischler/spikeFRInder)
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gavinmischler&repo=spikeFRInder)](https://github.com/gavinmischler/spikeFRInder)-->
 
+<!--
+mvlearn
+-->
+<a href="https://github.com/mvlearn/mvlearn">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mvlearn&repo=mvlearn&theme=merko" />
+</a>  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gavinmischler&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+spikeFRInder
+-->
+<a href="https://github.com/gavinmischler/spikeFRInder">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gavinmischler&repo=spikeFRInder&theme=merko" />
+</a>
 
 
 <!--
