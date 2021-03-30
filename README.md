@@ -19,21 +19,23 @@ spikeFRInder
 
 ### Some repos to check out
 
-<!--
-mvlearn
--->
-<a href="https://github.com/mvlearn/mvlearn">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mvlearn&repo=mvlearn&theme=merko" />
-</a>  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mvlearn&repo=mvlearn&theme=tokyonight)](https://github.com/mvlearn/mvlearn)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gavinmischler&repo=spikeFRInder&theme=tokyonight)](https://github.com/gavinmischler/spikeFRInder)
+
+
 
 <!--
-spikeFRInder
+<a href="https://github.com/mvlearn/mvlearn">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mvlearn&repo=mvlearn&theme=tokyonight" />
+</a>  
 -->
+
+<!--
 <a href="https://github.com/gavinmischler/spikeFRInder">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gavinmischler&repo=spikeFRInder&theme=merko" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gavinmischler&repo=spikeFRInder&theme=tokyonight" />
 </a>
+-->
 
 
 <!--
