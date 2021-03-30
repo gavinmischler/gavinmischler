@@ -4,7 +4,7 @@ I am an MS/PhD student in Electrical Engineering at Columbia University, under t
 
 I helped develop [mvlearn](https://mvlearn.github.io/) as an open-source tool to aid in the study of neural data. I believe open code enhances research efforts by facilitating reproducibility and further scientific advances that build off prior work. You can find my software projects here on Github, and more of my research on my [personal site](https://gavinmischler.github.io).
 
-<!--![Gavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavinmischler&count_private=true&theme=merko)-->
+![Gavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavinmischler&count_private=true&theme=merko)
 
 
 <!--
@@ -17,12 +17,11 @@ spikeFRInder
 -->
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gavinmischler&repo=spikeFRInder)](https://github.com/gavinmischler/spikeFRInder)-->
 
-### Some repos to check out
-
+<!--### Some repos to check out-->
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mvlearn&repo=mvlearn&theme=tokyonight)](https://github.com/mvlearn/mvlearn)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gavinmischler&repo=spikeFRInder&theme=tokyonight)](https://github.com/gavinmischler/spikeFRInder)
-
+-->
 
 
 <!--
